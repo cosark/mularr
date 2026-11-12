@@ -61,6 +61,12 @@ Access the web UI at `http://localhost:8940`.
 
 ---
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Mularr/)
+
+---
+
 ## Screenshots
 
 Mularr ships with multiple themes:
